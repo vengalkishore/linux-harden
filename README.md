@@ -1,9 +1,9 @@
 #How To Run 
 
-- git clone https://github.com/vengalkishore/linux-harden.git.
-- cd linux-harden.
-- chmod +x linux-harden.sh.
-- sudo ./linux-harden.
+- git clone https://github.com/vengalkishore/linux-harden.git
+- cd linux-harden
+- chmod +x linux-harden.sh
+- sudo ./linux-harden.sh
 
 # Linux Hardening Script
 
