@@ -1,3 +1,10 @@
+#How To Run The Script
+
+- git clone https://github.com/vengalkishore/linux-harden.git
+- cd linux-harden
+- chmod +x linux-harden.sh
+- sudo ./linux-harden.sh
+
 # Linux Hardening Script
 
 This repository contains a bash script to harden a Linux system. The script performs various hardening steps such as updating system packages, configuring SSH, setting up a firewall, and hardening specific services. It also generates reports before and after the hardening process.
