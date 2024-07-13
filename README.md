@@ -1,4 +1,4 @@
-#How To Run 
+#How To Run The Script
 
 - git clone https://github.com/vengalkishore/linux-harden.git
 - cd linux-harden
